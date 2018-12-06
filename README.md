@@ -1,6 +1,6 @@
 # Texas crime distribution analysis and regression modeling
 
-# Model and explain the spatial distribution of the crime rates in Texas. A proper regression model is build up and refined based on model diagnostics results A more accurate spatial autocorrelation regression model is established after heteroscedastic investigation.
+## Model and explain the spatial distribution of the crime rates in Texas. A proper regression model is build up and refined based on model diagnostics results A more accurate spatial autocorrelation regression model is established after heteroscedastic investigation.
 Collected demographic and crime data from ACS and DPS.\
 Apply transformation on skewed data and explore the data distribution.
 Select model features and set up null hypotheses.\
