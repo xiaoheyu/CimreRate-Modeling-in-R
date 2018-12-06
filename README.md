@@ -7,4 +7,4 @@ Select model features and set up null hypotheses.\
 Fit a regression model for crime rate.\
 Refine model based on collinearly analysis and residual diagnostic results.\
 Detect heteroscedastic and revise the regression model.\
-Conduct Moran’s I test to detect spatial autocorrelation and from a spatial regression model.\
+Conduct Moran’s I test to detect spatial autocorrelation and from a spatial regression model.
